@@ -1,0 +1,7 @@
+﻿{
+	"serveraddress1":"http://localhost/OpenScreenMarketPlace1/index.php/",	
+	"serveraddress2":"http://localhost/OpenScreenMarketPlace2/index.php/",	
+	"sensorport":"COM4",
+  "subaddress": "report_sensor",
+  "location": "ETRI Daejon"
+}
